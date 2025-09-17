@@ -1,4 +1,5 @@
  ![Gameplay](https://github.com/VodVas/AsteroidsClone/tree/main/_project/demo.gif
+ ![Gameplay](demo.gif)
 
 # Asteroids Clone - Unity Game Project
 
