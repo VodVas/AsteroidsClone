@@ -1,4 +1,4 @@
-[Demo GIF](AsteroidsClone/project/Assets/Gif/demo.gif)
+[Demo GIF](Assets/demo.gif)
 # Asteroids Clone - Unity Game Project
 
 Классическая аркадная игра Asteroids, реализованная на Unity с применением современных принципов разработки и архитектурных паттернов.
