@@ -1,5 +1,7 @@
  ![Gameplay](demo.gif)
 
+##Играть: https://vodvas.itch.io/asteroids-clone
+
 # Asteroids Clone - Unity Game Project
 
 Классическая аркадная игра Asteroids, реализованная на Unity с применением современных принципов разработки и архитектурных паттернов.
