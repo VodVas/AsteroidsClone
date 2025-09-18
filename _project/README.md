@@ -1,6 +1,6 @@
  ![Gameplay](demo.gif)
 
-##Играть: https://vodvas.itch.io/asteroids-clone
+## Играть: https://vodvas.itch.io/asteroids-clone
 
 # Asteroids Clone - Unity Game Project
 
